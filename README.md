@@ -52,7 +52,7 @@ Internet (ISP WiFi)
 - **Hypervisor:** Lenovo ThinkCentre M720q (Proxmox VE)
 - **Router:** GL.iNet GL-BE3600
 - **Switch:** Netgear 12-port
-- **DNS/Ad-Block:** Raspberry Pi 4 (Pi-hole)
+- **DNS/Ad-Block:** Raspberry Pi 5 (Pi-hole, mounted behind rack) 
 - **Rack:** Custom rack mount with cable management
 
 ---
