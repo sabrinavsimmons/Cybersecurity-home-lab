@@ -43,6 +43,18 @@ Internet (ISP WiFi)
 
 **Status:** ✅ Fully operational and validated as optimal architecture for environment
 
+## 📸 Lab Setup
+
+![Homelab Setup](images/lab-setup.jpg)
+
+**Hardware:**
+- **Firewall:** Lenovo ThinkCentre M910q (pfSense)
+- **Hypervisor:** Lenovo ThinkCentre M720q (Proxmox VE)
+- **Router:** GL.iNet GL-BE3600
+- **Switch:** Netgear 12-port
+- **DNS/Ad-Block:** Raspberry Pi 4 (Pi-hole)
+- **Rack:** Custom rack mount with cable management
+
 ---
 
 ## 📚 Documentation
