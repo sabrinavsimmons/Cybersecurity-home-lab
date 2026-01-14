@@ -219,9 +219,9 @@ Documentation and configuration examples are provided as-is for educational purp
 
 ## 🔗 Connect
 
-- **GitHub:** [Your GitHub Profile]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Portfolio:** [Your Website]
+- **GitHub:** https://github.com/sabrinavsimmons
+- **LinkedIn:** https://www.linkedin.com/in/sabrina-simmons-830095a1
+
 
 ---
 
