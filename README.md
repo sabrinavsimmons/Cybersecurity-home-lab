@@ -387,7 +387,7 @@ Documentation and configuration examples are provided as-is for educational purp
 
 **Total Investment:** ~26 hours of hands-on implementation and learning
 
-**Documentation:** 150+ pages of comprehensive technical documentation
+**Documentation:** 90+ pages of comprehensive technical documentation
 
 ---
 
